@@ -60,7 +60,8 @@ plt.show()
 
 ### Display the Eroded Image
 <br>
-![Screenshot 2024-11-11 154207](https://github.com/user-attachments/assets/c7238b86-4951-411e-9c59-b2403cd0f25f)
+
+![Screenshot 2024-11-11 154207](https://github.com/user-attachments/assets/bd4222c5-b897-405b-8c76-8c2edfc863db)
 
 
 <br>

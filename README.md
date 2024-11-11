@@ -55,9 +55,6 @@ plt.show()
 <br>
 
 ![Screenshot 2024-11-11 154214](https://github.com/user-attachments/assets/1f87e7e9-9976-4034-b7a0-8bc3eb38ca79)
-![Screenshot 2024-11-11 154207](https://github.com/user-attachments/assets/c7238b86-4951-411e-9c59-b2403cd0f25f)
-![Screenshot 2024-11-11 154200](https://github.com/user-attachments/assets/c8e00c79-7609-4f5e-bbaa-fcd8348edd45)
-
 
 <br>
 
